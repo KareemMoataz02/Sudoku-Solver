@@ -99,4 +99,4 @@ Run the main script, providing the path to the Sudoku image.
 Feel free to explore and adapt the code for your specific use case or contribute to the project's development.
 
 **Acknowledgments**
-Special thanks to the OpenCV community for their invaluable contributions and to Engineer Ahmed Salama for his invaluable guidance.
+Special thanks to the OpenCV community for their contributions and to Engineer Ahmed Salama for his invaluable guidance.
