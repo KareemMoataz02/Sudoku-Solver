@@ -1,11 +1,14 @@
 # Sudoku-Solver-Team16
 An Open CV app to recognize and solve sudoku Grids.
 
-*OpenCV Sudoku Solver*
-*Overview*
+**OpenCV Sudoku Solver**
+
+**Overview**
+
 This project is an OpenCV-based Sudoku solver that utilizes computer vision techniques to recognize and solve Sudoku puzzles from images. The solver employs various image processing and computer vision functions to preprocess the input image, extract the Sudoku grid, and solve the puzzle.
 
-*Table of Contents*
+**Table of Contents**
+
 1. Reading and Displaying Image
 2. Creating Mask for Color Range
 3. Ordering Corners Function
@@ -26,7 +29,8 @@ This project is an OpenCV-based Sudoku solver that utilizes computer vision tech
 18. Reading Templates from Folder
 19. Template Matching and its Helper Function
 20. Solving the Sudoku
-*Details*
+
+**Details**
 1. Reading and Displaying Image
 This section handles the loading and display of the input image.
 
@@ -87,11 +91,12 @@ Implements template matching to recognize numbers in the Sudoku grid.
 20. Solving the Sudoku
 Utilizes a Sudoku-solving algorithm to solve the puzzle based on the recognized numbers.
 
-*Usage*
+
+**Usage**
 Clone the repository.
 Install the required dependencies.
 Run the main script, providing the path to the Sudoku image.
 Feel free to explore and adapt the code for your specific use case or contribute to the project's development.
 
-*Acknowledgments*
+**Acknowledgments**
 Special thanks to the OpenCV community for their invaluable contributions and to Engineer Ahmed Salama for his invaluable guidance.
